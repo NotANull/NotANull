@@ -10,8 +10,7 @@
   
 <p>Principalmente gracias por visitar mi perfil. Soy un entusiasta, estudiante y desarrollador de aplicaciones de software con muchas ganas de aprender y obtener experiencia en esta profesión. <br><i>Todos los días se aprende algo nuevo!</i></p>
 
-<p><strong>Lenguajes y frameworks</strong></p>
-<div><img width="70px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">
-<img width="70px" src="https://www.armadilloamarillo.com/wp-content/uploads/course-image.png"> </div>
+<p><strong>Lenguajes</strong></p>
+<div><img width="70px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"></div>
 <div><img width="70px" src="https://i.ibb.co/hBrRcYf/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-de.png"></div>
 <p align="center"><strong>GRACIAS! - </strong><a href="https://github.com/NotANull">NotANull</a></p>
